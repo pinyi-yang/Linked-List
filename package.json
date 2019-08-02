@@ -1,0 +1,13 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "tsc",
+    "test": "node build/LinkedList.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
